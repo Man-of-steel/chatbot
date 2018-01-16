@@ -3,7 +3,10 @@
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+<<<<<<< HEAD
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+=======
+>>>>>>> 423b4b8e79be1588d5321c7930287cce5afcf4c8
         <property name="context-root" value="ProductChatbot"/>
         <property name="java-output-path" value="/ProductChatbot/target/classes"/>
     </wb-module>
